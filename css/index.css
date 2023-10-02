@@ -291,3 +291,7 @@ label {
   font-weight: 500;
   color: var(--heading-font-color);
 }
+.copyright{
+  gap: 10px;
+  display: flex;
+}
