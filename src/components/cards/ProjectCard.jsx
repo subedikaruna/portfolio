@@ -8,7 +8,7 @@ const ProjectCard = () => {
         {/* Added pb-6 */}
         <img
           className="w-full"
-          src="/public/karuna-subedi-high-resolution-logo-black.png"
+          src="/karuna-subedi-high-resolution-logo-black.png"
           alt="Sunset in the mountains"
         />
         <div className="px-6 py-4">

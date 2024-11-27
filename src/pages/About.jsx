@@ -14,7 +14,7 @@ const About = () => {
         <div className="flex justify-center mb-6">
           <img
             className="w-full h-[540px] object-cover bg-black"
-            src="/public/IMG-20231205-WA0000.png"
+            src="/IMG-20231205-WA0000.png"
             alt="Karuna Subedi"
           />
         </div>

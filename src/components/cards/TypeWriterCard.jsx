@@ -27,7 +27,7 @@ const TypeWriterCard = () => {
             </div>
             <div className="mt-12 md:mt-0">
               <img
-                src="/public/karuna.jpg"
+                src="/karuna.jpg"
                 alt="About Us Image"
                 className="object-cover aspect-square rounded-lg shadow-md size-full"
               />
