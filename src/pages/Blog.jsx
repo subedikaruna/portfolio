@@ -171,7 +171,7 @@ const Blog = () => {
                       </a>
                     </p>
                     <div className="flex space-x-1 text-sm text-gray-500">
-                      <p>dp2020-02-12p Feb 12, 2020</p>
+                      <p> Feb 12, 2020</p>
                       <span aria-hidden="true">·</span>
                       <span>11 min read</span>
                     </div>
