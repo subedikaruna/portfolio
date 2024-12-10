@@ -8,7 +8,7 @@ const TypeWriterCard = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 items-center gap-8">
             <div className="max-w-lg">
               <h2 className="text-3xl font-extrabold text-gray-900 sm:text-4xl">
-                About Us
+                About Me
               </h2>
               <div className="w-max">
                 <h1 className="animate-typing overflow-hidden whitespace-nowrap border-r-4 border-r-black pr-5 text-2xl text-black font-bold">

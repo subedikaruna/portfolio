@@ -74,9 +74,8 @@ const About = () => {
           </h2>
           <p className="text-gray-600">
             Outside of work, I enjoy exploring new cuisines, going for walks,
-            and experimenting with healthy recipes. I’m also a fitness
-            enthusiast, constantly working toward a balanced lifestyle and
-            health goals.
+            and trying new dishes.I have always been fascinated with stars and
+            moon and always been interested about planets and solar system.
           </p>
         </div>
 
