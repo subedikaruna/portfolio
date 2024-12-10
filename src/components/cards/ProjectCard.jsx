@@ -12,11 +12,29 @@ const ProjectCard = () => {
           alt="Sunset in the mountains"
         />
         <div className="px-6 py-4">
-          <div className="font-bold text-xl mb-2">The Coldest Sunset</div>
+          <div className="font-bold text-xl mb-2">
+            Best Way HR Agency Website Development
+          </div>
           <p className="text-gray-700 text-base">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-            Voluptatibus quia, nulla! Maiores et perferendis eaque,
-            exercitationem praesentium nihil.
+            Description: Designed and developed the frontend for Best Way HR
+            Agency, a leading manpower recruitment platform in Nepal, using
+            HTML, CSS, and JavaScript. The website focuses on connecting skilled
+            professionals with global opportunities, featuring a clean,
+            responsive layout that highlights their services, vision, mission,
+            and success stories. The user-centric interface was crafted to
+            provide seamless navigation and effectively showcase the agency’s
+            commitment to excellence in talent recruitment and development. Key
+            Features: Responsive Design: Ensured compatibility across various
+            devices and screen sizes. Dynamic UI Components: Integrated
+            interactive elements to enhance user engagement. Optimized
+            Navigation: Structured the site for intuitive access to information
+            about services, recruitment processes, and client testimonials.
+            Aesthetic Enhancements: Implemented modern styling techniques for a
+            professional and appealing look. Technologies Used: HTML, CSS,
+            JavaScript Live Website: Best Way HR Agency Project Impact: This
+            project underscored my ability to align technical skills with
+            business goals, contributing to a platform that facilitates
+            meaningful connections between job seekers and employers globally.
           </p>
         </div>
         <ViewMoreButton />
