@@ -25,16 +25,7 @@ const ProjectCard = () => {
             provide seamless navigation and effectively showcase the agency’s
             commitment to excellence in talent recruitment and development. Key
             Features: Responsive Design: Ensured compatibility across various
-            devices and screen sizes. Dynamic UI Components: Integrated
-            interactive elements to enhance user engagement. Optimized
-            Navigation: Structured the site for intuitive access to information
-            about services, recruitment processes, and client testimonials.
-            Aesthetic Enhancements: Implemented modern styling techniques for a
-            professional and appealing look. Technologies Used: HTML, CSS,
-            JavaScript Live Website: Best Way HR Agency Project Impact: This
-            project underscored my ability to align technical skills with
-            business goals, contributing to a platform that facilitates
-            meaningful connections between job seekers and employers globally.
+   
           </p>
         </div>
         <ViewMoreButton />
